@@ -1,7 +1,7 @@
 # Projeto-ULA
-Projeto de desenvolvivemento de uma ULA no software quartus para a disciplina de Sistemas Digitais
+Project to develop a ULA in the Quartus software for the Digital Systems course
 
-Este projeto envolver criar uma ULA com operações de 5 bits a nivel de Portas Lógicas dentro do software da intel Quartus. Com operações como soma, subtração, comparadores e entre outros...
+This project involves creating a ULA with 5-bit operations at the Logic Gate level within the intel Quartus software. With operations such as addition, subtraction, comparators and others...
 
 ![cpu](https://github.com/PedroFernandesG/Projeto-ULA/assets/147552248/c601ee43-1f39-4542-a827-8937de0a87ad)
 
